@@ -1,0 +1,4 @@
+domain/posts/Posts.java
+ domain.posts.Posts
+domain/posts/PostsRepository.java
+ domain.posts.PostsRepository

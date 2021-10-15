@@ -1,4 +1,53 @@
-domain/posts/Posts.java
- domain.posts.Posts
-domain/posts/PostsRepository.java
- domain.posts.PostsRepository
+aws/domain/posts/BaseTimeEntity.java
+ aws.domain.posts.BaseTimeEntity
+aws/domain/user/UserRepository.java
+ aws.domain.user.UserRepository
+aws/config/auth/OAuthAttributes.java
+ aws.config.auth.OAuthAttributes
+ aws.config.auth.OAuthAttributes$OAuthAttributesBuilder
+aws/domain/posts/Board.java
+ aws.domain.posts.Board
+ aws.domain.posts.Board$BoardBuilder
+aws/web/dto/BoardListResponseDto.java
+ aws.web.dto.BoardListResponseDto
+aws/domain/user/User.java
+ aws.domain.user.User
+ aws.domain.user.User$UserBuilder
+aws/config/WebConfig.java
+ aws.config.WebConfig
+aws/config/auth/CustomOAuth2UserService.java
+ aws.config.auth.CustomOAuth2UserService
+aws/web/dto/BoardSaveDto.java
+ aws.web.dto.BoardSaveDto
+ aws.web.dto.BoardSaveDto$BoardSaveDtoBuilder
+aws/domain/posts/BoardRepository.java
+ aws.domain.posts.BoardRepository
+aws/domain/user/Role.java
+ aws.domain.user.Role
+aws/web/BoardApiController.java
+ aws.web.BoardApiController
+aws/config/auth/SecurityConfig.java
+ aws.config.auth.SecurityConfig
+aws/web/dto/BoardUpdateDto.java
+ aws.web.dto.BoardUpdateDto
+ aws.web.dto.BoardUpdateDto$BoardUpdateDtoBuilder
+aws/config/auth/dto/SessionUser.java
+ aws.config.auth.dto.SessionUser
+aws/web/dto/HelloResponseDto.java
+ aws.web.dto.HelloResponseDto
+aws/web/IndexController.java
+ aws.web.IndexController
+aws/config/auth/LoginUser.java
+ aws.config.auth.LoginUser
+aws/config/auth/LoginUserArgumentResolver.java
+ aws.config.auth.LoginUserArgumentResolver
+aws/service/posts/BoardService.java
+ aws.service.posts.BoardService
+aws/web/dto/BoardResponseDto.java
+ aws.web.dto.BoardResponseDto
+aws/web/HelloController.java
+ aws.web.HelloController
+aws/AwsApplication.java
+ aws.AwsApplication
+aws/config/JpaConfig.java
+ aws.config.JpaConfig

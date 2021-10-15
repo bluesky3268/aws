@@ -1,0 +1,10 @@
+aws/web/IndexControllerTest.java
+ aws.web.IndexControllerTest
+aws/domain/posts/BoardRepositoryTest.java
+ aws.domain.posts.BoardRepositoryTest
+aws/web/dto/HelloResponseDtoTest.java
+ aws.web.dto.HelloResponseDtoTest
+aws/web/HelloControllerTest.java
+ aws.web.HelloControllerTest
+aws/web/BoardApiControllerTest.java
+ aws.web.BoardApiControllerTest
